@@ -6,3 +6,4 @@ end
   a
 end
 def assign_rooms(speaker, room)
+  
