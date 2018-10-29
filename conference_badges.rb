@@ -5,5 +5,5 @@ def badge_maker(array)
 end
   return a
 end
-def assign_rooms(speaker, room)
+
   
