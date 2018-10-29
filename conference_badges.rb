@@ -3,7 +3,7 @@ def badge_maker(array)
   array.each do |name|
   a.push puts("Hello, my name is #{name}.")
 end
-  a
+  return a
 end
 def assign_rooms(speaker, room)
   
